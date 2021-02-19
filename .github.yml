@@ -1,0 +1,12 @@
+---
+# See https://github.com/jvautier/project-cli
+fullname: jvautier/ansible-role-atom
+description: Install atom through ansible
+tags:
+  - ansible
+  - ansible-role
+  - atom
+github:
+  has_issues: true
+  has_projects: false
+  has_wiki: false
